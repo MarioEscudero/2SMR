@@ -1,2 +1,3 @@
-[[Tipos de SAI]]
-[[Ejercicios]]
+INDICE
+- [[Tipos de SAI]]
+- [[Ejercicios]]

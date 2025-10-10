@@ -45,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +190,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a3e8091cd386c07",
+  "active": "cd705217753263b8",
   "lastOpenFiles": [
-    "SEGIN/Tema2/Tema 2.md",
     "SEGIN/Tema2/Ejercicios.md",
+    "SEGIN/Tema2/Tema 2.md",
     "SEGIN/Tema2/Tipos de SAI.md",
     "SEGIN/Tema2",
     "SEGIN/TEMA 2.md",

@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEGIN/Tema2/Tema 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tema 2"
-            }
-          },
-          {
-            "id": "efb0310b38713a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEGIN/Tema2/Tipos de SAI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de SAI"
-            }
-          },
-          {
-            "id": "4b8d20ae251542ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "SEGIN/Tema2/Ejercicios.md",
                 "mode": "source",
                 "source": false
@@ -196,9 +168,9 @@
   },
   "active": "cd705217753263b8",
   "lastOpenFiles": [
-    "SEGIN/Tema2/Ejercicios.md",
-    "SEGIN/Tema2/Tema 2.md",
     "SEGIN/Tema2/Tipos de SAI.md",
+    "SEGIN/Tema2/Tema 2.md",
+    "SEGIN/Tema2/Ejercicios.md",
     "SEGIN/Tema2",
     "SEGIN/TEMA 2.md",
     "SEGIN/Tema2/Imágenes/Esquema SAI Interactivo.webp",

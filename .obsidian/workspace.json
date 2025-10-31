@@ -107,16 +107,27 @@
             }
           },
           {
+            "id": "dc354fdfe42ebeed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "4cec490528d09896",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SEGIN/Tema2/Ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ejercicios"
             }
           },
           {
@@ -140,20 +151,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SEGIN/Tema2/Ejercicios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ejercicios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,13 +175,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd705217753263b8",
+  "active": "dc354fdfe42ebeed",
   "lastOpenFiles": [
-    "SEGIN/Tema2/Tipos de SAI.md",
     "SEGIN/Tema2/Tema 2.md",
+    "SEGIN/Tema2/Tipos de SAI.md",
+    "Mindmap.md",
+    "README.md",
     "SEGIN/Tema2/Ejercicios.md",
     "SEGIN/Tema2",
     "SEGIN/TEMA 2.md",

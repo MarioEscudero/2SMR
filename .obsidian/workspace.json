@@ -11,14 +11,12 @@
             "id": "cd705217753263b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "SEGIN/Tema2/Ejercicios.md",
-                "mode": "source",
-                "source": false
+                "file": "SEGIN/Tema3/Esquema.md"
               },
-              "icon": "lucide-file",
-              "title": "Ejercicios"
+              "icon": "blocks",
+              "title": "Esquema"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5dc599001ef6e229",
@@ -151,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEGIN/Tema2/Ejercicios.md",
+                "file": "SEGIN/Tema3/Esquema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ejercicios"
+              "title": "Outline of Esquema"
             }
           }
         ],
@@ -165,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,16 +175,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dc354fdfe42ebeed",
+  "active": "cd705217753263b8",
   "lastOpenFiles": [
+    "Mindmap.md",
+    "SEGIN/Tema3/Esquema.md",
+    "SEGIN/Tema3",
+    "SEGIN/Tema2/Ejercicios.md",
     "SEGIN/Tema2/Tema 2.md",
     "SEGIN/Tema2/Tipos de SAI.md",
-    "Mindmap.md",
     "README.md",
-    "SEGIN/Tema2/Ejercicios.md",
     "SEGIN/Tema2",
     "SEGIN/TEMA 2.md",
     "SEGIN/Tema2/Imágenes/Esquema SAI Interactivo.webp",
